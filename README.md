@@ -1,2 +1,2 @@
 # ML-Python-Practice
-An endeavor to solidify ML concepts learned, and originally implemented in MATLab, in Python.
+I made a lot of Jupyter notebooks in grad school, here are many of them.
